@@ -1,0 +1,10 @@
+print('What is your name?')
+name = input()
+print('Hello,' + name + '!')
+print('How tall are you?')
+tall = input()
+print('Oh, cool')
+print('What is your height?')
+height = input()
+print('Perfect')
+
